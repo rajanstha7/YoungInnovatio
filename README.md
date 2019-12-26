@@ -1,4 +1,4 @@
-# YoungInnovatio
+# YoungInnovation
 This is the assignment solution for the internship of YoungInnovation
 
 READ ME:
