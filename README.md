@@ -6,7 +6,7 @@ READ ME:
 2. Run convert.py which produces two output file i.e
     i. data.csv
     ii data.xls
-3. data.csv is used in reporgenerator.py
+3. data.csv is used in reportgenerator.py
 4. Run reportgenerator.py
 5. After running reportgenerator.py ; desired output is obtained in the form of reportgenerator.csv
 6. reportgenerator.csv is the actual output needed.
